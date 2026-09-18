@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Domains/Domains.csproj" />
+  <Project Path="PhoneBook/PhoneBook.csproj" />
+  <Project Path="Services/Services.csproj" />
+</Solution>
